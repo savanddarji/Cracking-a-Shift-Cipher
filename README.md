@@ -11,3 +11,5 @@ Your plain text: dogscanhelpbothelderlypeopleandchildrenwiththeirdailylifebecaus
 
 Note: The program can be worked with any size of input but the size should be more than 30 letters for good results.
       Only enlish letter (A-Z or a-z) can be deciphered and blank space will be appeared with letter 'n' in recovered plain text
+      
+If you want to try it with your own plain text then you can encrypt your plain text through: https://github.com/savanddarji/Encryption-using-Shift-Cipher
